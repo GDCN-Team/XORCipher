@@ -1,0 +1,18 @@
+{
+  "name": "gdcn/xor",
+  "description": "Geometry Dash XOR",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "WOSHIZHAZHA120",
+      "email": "WOSHIZHAZHA120@qq.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+      "psr-4": {
+          "XORCipher\\": "src"
+      }
+  }
+}
