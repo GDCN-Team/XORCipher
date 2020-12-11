@@ -1,6 +1,7 @@
 {
   "name": "gdcn/xor",
   "description": "Geometry Dash XOR",
+  "version": "1.0.0",
   "type": "library",
   "license": "MIT",
   "authors": [
