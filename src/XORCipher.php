@@ -3,7 +3,7 @@
  * Copyright (c) 2020. WOSHIZHAZHA120
  */
 
-namespace XORCipher;
+namespace GDCN;
 
 /**
  * Class XORCipher
