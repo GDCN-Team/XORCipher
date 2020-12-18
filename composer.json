@@ -1,6 +1,6 @@
 {
-  "name": "gdcn/xor",
-  "description": "Geometry Dash XOR",
+  "name": "gdcn/xor-cipher",
+  "description": "XORCipher",
   "version": "1.0.0",
   "type": "library",
   "license": "MIT",
